@@ -1,0 +1,6 @@
+int foo(int c, int a, int b){
+   return c * a + b;
+}
+int wain (int a, int b) {
+  return foo(a, b, 20); 
+}
